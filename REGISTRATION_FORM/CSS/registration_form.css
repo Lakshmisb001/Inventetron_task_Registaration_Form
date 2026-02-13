@@ -1,0 +1,43 @@
+body {
+    background-color: #e6eef3;
+    font-family: Arial, sans-serif;
+}
+
+.form-container {
+    width: 400px;
+    margin: 50px auto;
+    background-color: #cfd8dc;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #b0bec5;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #90a4ae;
+}
+.required {
+    color: red;
+}
