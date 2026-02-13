@@ -17,7 +17,7 @@ It collects user information like First Name, Last Name, Email, Contact, Gender,
 - JavaScript
 
 ##  Project Structure
-registration-form
+registration-form/
 │
 ├── registration_form.html
 ├── CSS/
@@ -25,7 +25,6 @@ registration-form
 ├── JS/
 │   └── registration_form.js
 
----
 
 ##  How to Run the Project
 1. Download the repository
